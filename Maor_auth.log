@@ -1,0 +1,222 @@
+Apr 18 11:56:10 fw-01 sshd[3385]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=info
+Apr 18 11:56:10 fw-01 sshd[3385]: Failed password for info from 229.188.55.53 port 52188 ssh2
+Apr 18 11:56:13 fw-01 sshd[3385]: message repeated 2 times: [ Failed password for info from 229.188.55.53 port 52188 ssh2]
+Apr 18 11:56:15 fw-01 sshd[3385]: Connection reset by authenticating user info 229.188.55.53 port 52188 [preauth]
+Apr 18 11:56:15 fw-01 sshd[3385]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=info
+Apr 18 11:56:25 fw-01 sshd[1815]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=info
+Apr 18 11:56:27 fw-01 sshd[1815]: Failed password for info from 96.2.56.205 port 63346 ssh2
+Apr 18 11:56:29 fw-01 sshd[1815]: message repeated 2 times: [ Failed password for info from 96.2.56.205 port 63346 ssh2]
+Apr 18 11:56:32 fw-01 sshd[1815]: Connection reset by authenticating user info 96.2.56.205 port 63346 [preauth]
+Apr 18 11:56:34 fw-01 sshd[1815]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=info
+Apr 18 11:56:45 fw-01 sshd[7610]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=info
+Apr 18 11:56:48 fw-01 sshd[7610]: Failed password for info from 96.2.56.205 port 41190 ssh2
+Apr 18 11:56:50 fw-01 sshd[7610]: message repeated 2 times: [ Failed password for info from 96.2.56.205 port 41190 ssh2]
+Apr 18 11:56:53 fw-01 sshd[7610]: Connection reset by authenticating user info 96.2.56.205 port 41190 [preauth]
+Apr 18 11:56:53 fw-01 sshd[7610]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=info
+Apr 18 11:57:01 fw-01 sshd[6736]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=info
+Apr 18 11:57:03 fw-01 sshd[6736]: Failed password for info from 240.245.30.219 port 54098 ssh2
+Apr 18 11:57:06 fw-01 sshd[6736]: message repeated 2 times: [ Failed password for info from 240.245.30.219 port 54098 ssh2]
+Apr 18 11:57:09 fw-01 sshd[6736]: Connection reset by authenticating user info 240.245.30.219 port 54098 [preauth]
+Apr 18 11:57:12 fw-01 sshd[6736]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=info
+Apr 18 11:57:17 fw-01 sshd[7822]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=info
+Apr 18 11:57:18 fw-01 sshd[7822]: Failed password for info from 229.188.55.53 port 59904 ssh2
+Apr 18 11:57:21 fw-01 sshd[7822]: message repeated 2 times: [ Failed password for info from 229.188.55.53 port 59904 ssh2]
+Apr 18 11:57:23 fw-01 sshd[7822]: Connection reset by authenticating user info 229.188.55.53 port 59904 [preauth]
+Apr 18 11:57:23 fw-01 sshd[7822]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=info
+Apr 18 11:57:30 fw-01 sshd[2314]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=info
+Apr 18 11:57:31 fw-01 sshd[2314]: Failed password for info from 83.9.161.165 port 41332 ssh2
+Apr 18 11:57:33 fw-01 sshd[2314]: message repeated 2 times: [ Failed password for info from 83.9.161.165 port 41332 ssh2]
+Apr 18 11:57:34 fw-01 sshd[2314]: Connection reset by authenticating user info 83.9.161.165 port 41332 [preauth]
+Apr 18 11:57:35 fw-01 sshd[2314]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=info
+Apr 18 11:57:42 fw-01 sshd[8598]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=info
+Apr 18 11:57:44 fw-01 sshd[8598]: Failed password for info from 73.107.251.225 port 38827 ssh2
+Apr 18 11:57:45 fw-01 sshd[8598]: message repeated 2 times: [ Failed password for info from 73.107.251.225 port 38827 ssh2]
+Apr 18 11:57:48 fw-01 sshd[8598]: Connection reset by authenticating user info 73.107.251.225 port 38827 [preauth]
+Apr 18 11:57:49 fw-01 sshd[8598]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=info
+Apr 18 11:58:05 fw-01 sshd[8762]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=pi
+Apr 18 11:58:06 fw-01 sshd[8762]: Failed password for pi from 53.57.207.97 port 60791 ssh2
+Apr 18 11:58:06 fw-01 sshd[8762]: message repeated 2 times: [ Failed password for pi from 53.57.207.97 port 60791 ssh2]
+Apr 18 11:58:07 fw-01 sshd[8762]: Connection reset by authenticating user pi 53.57.207.97 port 60791 [preauth]
+Apr 18 11:58:09 fw-01 sshd[8762]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=pi
+Apr 18 11:58:22 fw-01 sshd[2601]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:58:22 fw-01 sshd[2601]: Failed password for pi from 229.188.55.53 port 46714 ssh2
+Apr 18 11:58:24 fw-01 sshd[2601]: message repeated 2 times: [ Failed password for pi from 229.188.55.53 port 46714 ssh2]
+Apr 18 11:58:24 fw-01 sshd[2601]: Connection reset by authenticating user pi 229.188.55.53 port 46714 [preauth]
+Apr 18 11:58:24 fw-01 sshd[2601]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:58:31 fw-01 sshd[3545]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=pi
+Apr 18 11:58:31 fw-01 sshd[3545]: Failed password for pi from 240.245.30.219 port 56614 ssh2
+Apr 18 11:58:34 fw-01 sshd[3545]: message repeated 2 times: [ Failed password for pi from 240.245.30.219 port 56614 ssh2]
+Apr 18 11:58:37 fw-01 sshd[3545]: Connection reset by authenticating user pi 240.245.30.219 port 56614 [preauth]
+Apr 18 11:58:40 fw-01 sshd[3545]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=pi
+Apr 18 11:58:46 fw-01 sshd[7612]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:58:47 fw-01 sshd[7612]: Failed password for pi from 229.188.55.53 port 56110 ssh2
+Apr 18 11:58:48 fw-01 sshd[7612]: message repeated 2 times: [ Failed password for pi from 229.188.55.53 port 56110 ssh2]
+Apr 18 11:58:49 fw-01 sshd[7612]: Connection reset by authenticating user pi 229.188.55.53 port 56110 [preauth]
+Apr 18 11:58:50 fw-01 sshd[7612]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:58:55 fw-01 sshd[9314]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=pi
+Apr 18 11:58:55 fw-01 sshd[9314]: Failed password for pi from 73.107.251.225 port 40900 ssh2
+Apr 18 11:58:58 fw-01 sshd[9314]: message repeated 2 times: [ Failed password for pi from 73.107.251.225 port 40900 ssh2]
+Apr 18 11:58:58 fw-01 sshd[9314]: Connection reset by authenticating user pi 73.107.251.225 port 40900 [preauth]
+Apr 18 11:59:00 fw-01 sshd[9314]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=pi
+Apr 18 11:59:06 fw-01 sshd[5710]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=pi
+Apr 18 11:59:06 fw-01 sshd[5710]: Failed password for pi from 53.57.207.97 port 61799 ssh2
+Apr 18 11:59:08 fw-01 sshd[5710]: message repeated 2 times: [ Failed password for pi from 53.57.207.97 port 61799 ssh2]
+Apr 18 11:59:10 fw-01 sshd[5710]: Connection reset by authenticating user pi 53.57.207.97 port 61799 [preauth]
+Apr 18 11:59:11 fw-01 sshd[5710]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=pi
+Apr 18 11:59:15 fw-01 sshd[7657]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:59:17 fw-01 sshd[7657]: Failed password for pi from 229.188.55.53 port 43527 ssh2
+Apr 18 11:59:18 fw-01 sshd[7657]: message repeated 2 times: [ Failed password for pi from 229.188.55.53 port 43527 ssh2]
+Apr 18 11:59:20 fw-01 sshd[7657]: Connection reset by authenticating user pi 229.188.55.53 port 43527 [preauth]
+Apr 18 11:59:21 fw-01 sshd[7657]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=pi
+Apr 18 11:59:43 fw-01 sshd[3535]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=administrator
+Apr 18 11:59:44 fw-01 sshd[3535]: Failed password for administrator from 229.188.55.53 port 49923 ssh2
+Apr 18 11:59:47 fw-01 sshd[3535]: message repeated 2 times: [ Failed password for administrator from 229.188.55.53 port 49923 ssh2]
+Apr 18 11:59:47 fw-01 sshd[3535]: Connection reset by authenticating user administrator 229.188.55.53 port 49923 [preauth]
+Apr 18 11:59:47 fw-01 sshd[3535]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=administrator
+Apr 18 11:59:55 fw-01 sshd[2237]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=administrator
+Apr 18 11:59:56 fw-01 sshd[2237]: Failed password for administrator from 96.2.56.205 port 49005 ssh2
+Apr 18 11:59:58 fw-01 sshd[2237]: message repeated 2 times: [ Failed password for administrator from 96.2.56.205 port 49005 ssh2]
+Apr 18 11:59:59 fw-01 sshd[2237]: Connection reset by authenticating user administrator 96.2.56.205 port 49005 [preauth]
+Apr 18 12:00:01 fw-01 sshd[2237]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=administrator
+Apr 18 12:00:05 fw-01 sshd[4852]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:00:07 fw-01 sshd[4852]: Failed password for administrator from 240.245.30.219 port 40541 ssh2
+Apr 18 12:00:08 fw-01 sshd[4852]: message repeated 2 times: [ Failed password for administrator from 240.245.30.219 port 40541 ssh2]
+Apr 18 12:00:08 fw-01 sshd[4852]: Connection reset by authenticating user administrator 240.245.30.219 port 40541 [preauth]
+Apr 18 12:00:11 fw-01 sshd[4852]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:00:18 fw-01 sshd[7989]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=administrator
+Apr 18 12:00:19 fw-01 sshd[7989]: Failed password for administrator from 73.107.251.225 port 47248 ssh2
+Apr 18 12:00:21 fw-01 sshd[7989]: message repeated 2 times: [ Failed password for administrator from 73.107.251.225 port 47248 ssh2]
+Apr 18 12:00:22 fw-01 sshd[7989]: Connection reset by authenticating user administrator 73.107.251.225 port 47248 [preauth]
+Apr 18 12:00:24 fw-01 sshd[7989]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=administrator
+Apr 18 12:00:35 fw-01 sshd[1667]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:00:38 fw-01 sshd[1667]: Failed password for administrator from 240.245.30.219 port 47887 ssh2
+Apr 18 12:00:40 fw-01 sshd[1667]: message repeated 2 times: [ Failed password for administrator from 240.245.30.219 port 47887 ssh2]
+Apr 18 12:00:41 fw-01 sshd[1667]: Connection reset by authenticating user administrator 240.245.30.219 port 47887 [preauth]
+Apr 18 12:00:42 fw-01 sshd[1667]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:00:54 fw-01 sshd[8034]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=administrator
+Apr 18 12:00:57 fw-01 sshd[8034]: Failed password for administrator from 53.57.207.97 port 51936 ssh2
+Apr 18 12:00:57 fw-01 sshd[8034]: message repeated 2 times: [ Failed password for administrator from 53.57.207.97 port 51936 ssh2]
+Apr 18 12:00:59 fw-01 sshd[8034]: Connection reset by authenticating user administrator 53.57.207.97 port 51936 [preauth]
+Apr 18 12:00:59 fw-01 sshd[8034]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=administrator
+Apr 18 12:01:02 fw-01 sshd[1693]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:01:02 fw-01 sshd[1693]: Failed password for administrator from 240.245.30.219 port 37895 ssh2
+Apr 18 12:01:05 fw-01 sshd[1693]: message repeated 2 times: [ Failed password for administrator from 240.245.30.219 port 37895 ssh2]
+Apr 18 12:01:08 fw-01 sshd[1693]: Connection reset by authenticating user administrator 240.245.30.219 port 37895 [preauth]
+Apr 18 12:01:09 fw-01 sshd[1693]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=administrator
+Apr 18 12:01:19 fw-01 sshd[5837]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=administrator
+Apr 18 12:01:22 fw-01 sshd[5837]: Failed password for administrator from 96.2.56.205 port 54937 ssh2
+Apr 18 12:01:23 fw-01 sshd[5837]: message repeated 2 times: [ Failed password for administrator from 96.2.56.205 port 54937 ssh2]
+Apr 18 12:01:26 fw-01 sshd[5837]: Connection reset by authenticating user administrator 96.2.56.205 port 54937 [preauth]
+Apr 18 12:01:28 fw-01 sshd[5837]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=administrator
+Apr 18 12:01:49 fw-01 sshd[4581]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=ec2-user
+Apr 18 12:01:50 fw-01 sshd[4581]: Failed password for ec2-user from 240.245.30.219 port 51403 ssh2
+Apr 18 12:01:53 fw-01 sshd[4581]: message repeated 2 times: [ Failed password for ec2-user from 240.245.30.219 port 51403 ssh2]
+Apr 18 12:01:54 fw-01 sshd[4581]: Connection reset by authenticating user ec2-user 240.245.30.219 port 51403 [preauth]
+Apr 18 12:01:56 fw-01 sshd[4581]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=ec2-user
+Apr 18 12:02:03 fw-01 sshd[2854]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ec2-user
+Apr 18 12:02:04 fw-01 sshd[2854]: Failed password for ec2-user from 53.57.207.97 port 45862 ssh2
+Apr 18 12:02:05 fw-01 sshd[2854]: message repeated 2 times: [ Failed password for ec2-user from 53.57.207.97 port 45862 ssh2]
+Apr 18 12:02:06 fw-01 sshd[2854]: Connection reset by authenticating user ec2-user 53.57.207.97 port 45862 [preauth]
+Apr 18 12:02:07 fw-01 sshd[2854]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ec2-user
+Apr 18 12:02:17 fw-01 sshd[2969]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ec2-user
+Apr 18 12:02:18 fw-01 sshd[2969]: Failed password for ec2-user from 53.57.207.97 port 49241 ssh2
+Apr 18 12:02:19 fw-01 sshd[2969]: message repeated 2 times: [ Failed password for ec2-user from 53.57.207.97 port 49241 ssh2]
+Apr 18 12:02:19 fw-01 sshd[2969]: Connection reset by authenticating user ec2-user 53.57.207.97 port 49241 [preauth]
+Apr 18 12:02:22 fw-01 sshd[2969]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ec2-user
+Apr 18 12:02:32 fw-01 sshd[6979]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=ec2-user
+Apr 18 12:02:32 fw-01 sshd[6979]: Failed password for ec2-user from 73.107.251.225 port 42482 ssh2
+Apr 18 12:02:33 fw-01 sshd[6979]: message repeated 2 times: [ Failed password for ec2-user from 73.107.251.225 port 42482 ssh2]
+Apr 18 12:02:35 fw-01 sshd[6979]: Connection reset by authenticating user ec2-user 73.107.251.225 port 42482 [preauth]
+Apr 18 12:02:38 fw-01 sshd[6979]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=ec2-user
+Apr 18 12:02:46 fw-01 sshd[3584]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=ec2-user
+Apr 18 12:02:49 fw-01 sshd[3584]: Failed password for ec2-user from 83.9.161.165 port 41355 ssh2
+Apr 18 12:02:50 fw-01 sshd[3584]: message repeated 2 times: [ Failed password for ec2-user from 83.9.161.165 port 41355 ssh2]
+Apr 18 12:02:53 fw-01 sshd[3584]: Connection reset by authenticating user ec2-user 83.9.161.165 port 41355 [preauth]
+Apr 18 12:02:56 fw-01 sshd[3584]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=ec2-user
+Apr 18 12:03:21 fw-01 sshd[4065]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=root
+Apr 18 12:03:23 fw-01 sshd[4065]: Failed password for root from 229.188.55.53 port 57446 ssh2
+Apr 18 12:03:23 fw-01 sshd[4065]: message repeated 2 times: [ Failed password for root from 229.188.55.53 port 57446 ssh2]
+Apr 18 12:03:24 fw-01 sshd[4065]: Connection reset by authenticating user root 229.188.55.53 port 57446 [preauth]
+Apr 18 12:03:27 fw-01 sshd[4065]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=root
+Apr 18 12:03:33 fw-01 sshd[9596]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=root
+Apr 18 12:03:34 fw-01 sshd[9596]: Failed password for root from 96.2.56.205 port 57717 ssh2
+Apr 18 12:03:35 fw-01 sshd[9596]: message repeated 2 times: [ Failed password for root from 96.2.56.205 port 57717 ssh2]
+Apr 18 12:03:37 fw-01 sshd[9596]: Connection reset by authenticating user root 96.2.56.205 port 57717 [preauth]
+Apr 18 12:03:37 fw-01 sshd[9596]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=root
+Apr 18 12:03:49 fw-01 sshd[5709]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=root
+Apr 18 12:03:52 fw-01 sshd[5709]: Failed password for root from 83.9.161.165 port 53927 ssh2
+Apr 18 12:03:54 fw-01 sshd[5709]: message repeated 2 times: [ Failed password for root from 83.9.161.165 port 53927 ssh2]
+Apr 18 12:03:54 fw-01 sshd[5709]: Connection reset by authenticating user root 83.9.161.165 port 53927 [preauth]
+Apr 18 12:03:56 fw-01 sshd[5709]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=83.9.161.165  user=root
+Apr 18 12:04:05 fw-01 sshd[7510]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=root
+Apr 18 12:04:07 fw-01 sshd[7510]: Failed password for root from 53.57.207.97 port 55688 ssh2
+Apr 18 12:04:09 fw-01 sshd[7510]: message repeated 2 times: [ Failed password for root from 53.57.207.97 port 55688 ssh2]
+Apr 18 12:04:12 fw-01 sshd[7510]: Connection reset by authenticating user root 53.57.207.97 port 55688 [preauth]
+Apr 18 12:04:13 fw-01 sshd[7510]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=root
+Apr 18 12:04:26 fw-01 sshd[6949]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=root
+Apr 18 12:04:29 fw-01 sshd[6949]: Failed password for root from 96.2.56.205 port 63531 ssh2
+Apr 18 12:04:30 fw-01 sshd[6949]: message repeated 2 times: [ Failed password for root from 96.2.56.205 port 63531 ssh2]
+Apr 18 12:04:30 fw-01 sshd[6949]: Connection reset by authenticating user root 96.2.56.205 port 63531 [preauth]
+Apr 18 12:04:33 fw-01 sshd[6949]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=root
+Apr 18 12:04:58 fw-01 sshd[9976]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=ftp
+Apr 18 12:05:01 fw-01 sshd[9976]: Failed password for ftp from 73.107.251.225 port 40279 ssh2
+Apr 18 12:05:04 fw-01 sshd[9976]: message repeated 2 times: [ Failed password for ftp from 73.107.251.225 port 40279 ssh2]
+Apr 18 12:05:05 fw-01 sshd[9976]: Connection reset by authenticating user ftp 73.107.251.225 port 40279 [preauth]
+Apr 18 12:05:07 fw-01 sshd[9976]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=ftp
+Apr 18 12:05:15 fw-01 sshd[4868]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ftp
+Apr 18 12:05:17 fw-01 sshd[4868]: Failed password for ftp from 53.57.207.97 port 63609 ssh2
+Apr 18 12:05:18 fw-01 sshd[4868]: message repeated 2 times: [ Failed password for ftp from 53.57.207.97 port 63609 ssh2]
+Apr 18 12:05:19 fw-01 sshd[4868]: Connection reset by authenticating user ftp 53.57.207.97 port 63609 [preauth]
+Apr 18 12:05:19 fw-01 sshd[4868]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=ftp
+Apr 18 12:05:27 fw-01 sshd[5067]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=ftp
+Apr 18 12:05:30 fw-01 sshd[5067]: Failed password for ftp from 240.245.30.219 port 60788 ssh2
+Apr 18 12:05:33 fw-01 sshd[5067]: message repeated 2 times: [ Failed password for ftp from 240.245.30.219 port 60788 ssh2]
+Apr 18 12:05:36 fw-01 sshd[5067]: Connection reset by authenticating user ftp 240.245.30.219 port 60788 [preauth]
+Apr 18 12:05:36 fw-01 sshd[5067]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=ftp
+Apr 18 12:05:45 fw-01 sshd[7833]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=ftp
+Apr 18 12:05:45 fw-01 sshd[7833]: Failed password for ftp from 96.2.56.205 port 45665 ssh2
+Apr 18 12:05:45 fw-01 sshd[7833]: message repeated 2 times: [ Failed password for ftp from 96.2.56.205 port 45665 ssh2]
+Apr 18 12:05:47 fw-01 sshd[7833]: Connection reset by authenticating user ftp 96.2.56.205 port 45665 [preauth]
+Apr 18 12:05:49 fw-01 sshd[7833]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=96.2.56.205  user=ftp
+Apr 18 12:05:59 fw-01 sshd[7947]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=ftp
+Apr 18 12:05:59 fw-01 sshd[7947]: Failed password for ftp from 229.188.55.53 port 51955 ssh2
+Apr 18 12:06:00 fw-01 sshd[7947]: message repeated 2 times: [ Failed password for ftp from 229.188.55.53 port 51955 ssh2]
+Apr 18 12:06:02 fw-01 sshd[7947]: Connection reset by authenticating user ftp 229.188.55.53 port 51955 [preauth]
+Apr 18 12:06:04 fw-01 sshd[7947]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=ftp
+Apr 18 12:06:21 fw-01 sshd[4351]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+Apr 18 12:06:22 fw-01 sshd[4351]: Failed password for puppet from 240.245.30.219 port 61331 ssh2
+Apr 18 12:06:23 fw-01 sshd[4351]: message repeated 2 times: [ Failed password for puppet from 240.245.30.219 port 61331 ssh2]
+Apr 18 12:06:23 fw-01 sshd[4351]: Connection reset by authenticating user puppet 240.245.30.219 port 61331 [preauth]
+Apr 18 12:06:26 fw-01 sshd[4351]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+Apr 18 12:06:32 fw-01 sshd[5586]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+Apr 18 12:06:34 fw-01 sshd[5586]: Failed password for puppet from 240.245.30.219 port 38061 ssh2
+Apr 18 12:06:37 fw-01 sshd[5586]: message repeated 2 times: [ Failed password for puppet from 240.245.30.219 port 38061 ssh2]
+Apr 18 12:06:40 fw-01 sshd[5586]: Connection reset by authenticating user puppet 240.245.30.219 port 38061 [preauth]
+Apr 18 12:06:40 fw-01 sshd[5586]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+Apr 18 12:06:44 fw-01 sshd[2025]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=puppet
+Apr 18 12:06:44 fw-01 sshd[2025]: Failed password for puppet from 53.57.207.97 port 51763 ssh2
+Apr 18 12:06:47 fw-01 sshd[2025]: message repeated 2 times: [ Failed password for puppet from 53.57.207.97 port 51763 ssh2]
+Apr 18 12:06:49 fw-01 sshd[2025]: Connection reset by authenticating user puppet 53.57.207.97 port 51763 [preauth]
+Apr 18 12:06:52 fw-01 sshd[2025]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=puppet
+Apr 18 12:06:57 fw-01 sshd[7741]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=puppet
+Apr 18 12:06:58 fw-01 sshd[7741]: Failed password for puppet from 229.188.55.53 port 55234 ssh2
+Apr 18 12:06:58 fw-01 sshd[7741]: message repeated 2 times: [ Failed password for puppet from 229.188.55.53 port 55234 ssh2]
+Apr 18 12:07:00 fw-01 sshd[7741]: Connection reset by authenticating user puppet 229.188.55.53 port 55234 [preauth]
+Apr 18 12:07:01 fw-01 sshd[7741]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=229.188.55.53  user=puppet
+Apr 18 12:07:08 fw-01 sshd[7738]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=puppet
+Apr 18 12:07:08 fw-01 sshd[7738]: Failed password for puppet from 73.107.251.225 port 55329 ssh2
+Apr 18 12:07:09 fw-01 sshd[7738]: message repeated 2 times: [ Failed password for puppet from 73.107.251.225 port 55329 ssh2]
+Apr 18 12:07:11 fw-01 sshd[7738]: Connection reset by authenticating user puppet 73.107.251.225 port 55329 [preauth]
+Apr 18 12:07:13 fw-01 sshd[7738]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=73.107.251.225  user=puppet
+Apr 18 12:07:24 fw-01 sshd[7519]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=puppet
+Apr 18 12:07:27 fw-01 sshd[7519]: Failed password for puppet from 53.57.207.97 port 41741 ssh2
+Apr 18 12:07:27 fw-01 sshd[7519]: message repeated 2 times: [ Failed password for puppet from 53.57.207.97 port 41741 ssh2]
+Apr 18 12:07:27 fw-01 sshd[7519]: Connection reset by authenticating user puppet 53.57.207.97 port 41741 [preauth]
+Apr 18 12:07:28 fw-01 sshd[7519]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=53.57.207.97  user=puppet
+Apr 18 12:07:34 fw-01 sshd[1926]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+Apr 18 12:07:36 fw-01 sshd[1926]: Failed password for puppet from 240.245.30.219 port 38759 ssh2
+Apr 18 12:07:37 fw-01 sshd[1926]: message repeated 2 times: [ Failed password for puppet from 240.245.30.219 port 38759 ssh2]
+Apr 18 12:07:39 fw-01 sshd[1926]: Connection reset by authenticating user puppet 240.245.30.219 port 38759 [preauth]
+Apr 18 12:07:41 fw-01 sshd[1926]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=240.245.30.219  user=puppet
+
+
